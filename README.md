@@ -9,7 +9,7 @@
 - Bachelor of Arts, Sociology
 
 ## EXPERIENCE
-### Teaching Assistant @ Santa Clara University (2024)
+### Teaching Assistant @ Santa Clara University (2024 -)
 ### Practicum Student @ Cisco (2024)
 ### Localization Program Manager @ Multilingual Technologies Inc. (2016-2023)
 
