@@ -4,7 +4,7 @@
 ## EDUCATION
 ### Santa Clara University  
 - Master of Science, Business Analytics
-- 
+
 ### University of California, Los Angeles
 - Bachelor of Arts, Sociology
 
