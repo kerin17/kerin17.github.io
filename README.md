@@ -18,6 +18,7 @@
 financial decision-making and reducing risk of repossession;
 - Optimized pricing strategies based on economic trends, aligning product pricing with customer
 income levels to enhance payment compliance and customer satisfaction.
+
 ### Sistema
 - Conducted analysis of social media and website analytics, with a specific focus on Kenya;
 - Determined the effectiveness of campaigns; Identified trends in messaging and audience
