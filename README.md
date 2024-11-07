@@ -1,8 +1,12 @@
 #### Data Translator | Business Intelligence | Localization Expert
 
-#### Technical Skills: Python, Tableau, Power BI, AWS   <br /> <br />
+#### Technical Skills: Python, Tableau, Power BI, AWS  
 
-## 🤝🏼 [LinkedIn](https://www.linkedin.com/in/kerin-w-67445690/)    <br />  <br />
+<br /> <br />
+
+## 🤝🏼 [LinkedIn](https://www.linkedin.com/in/kerin-w-67445690/)    
+
+<br />  <br />
 
 ## 🐝 EXPERIENCE
 
@@ -12,6 +16,7 @@
 
 ### Localization Program Manager @ Multilingual Technologies Inc. (2016-2023)
 
+<br /> <br />
 
 ## 📝 EDUCATION
 ### Santa Clara University  
