@@ -1,14 +1,17 @@
-#### Data Translator | Business Intelligence |
-#### Solutions Architect | Localization Expert  <br />
+#### Data Translator | Business Intelligence | Localization Expert
 
 #### Technical Skills: Python, Tableau, Power BI, AWS   <br />
 
 ## 🤝🏼 [LinkedIn](https://www.linkedin.com/in/kerin-w-67445690/)    <br />
 
 ## 🐝 EXPERIENCE
+
 ### Teaching Assistant @ Santa Clara University (2024 -)
+
 ### Data Analyst Intern @ Cisco (2024)
+
 ### Localization Program Manager @ Multilingual Technologies Inc. (2016-2023)
+
 
 ## 📝 EDUCATION
 ### Santa Clara University  
