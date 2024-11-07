@@ -1,10 +1,6 @@
-### Data Translator | Business Intelligence |  
+### Data Translator | Business Intelligence | Localization Expert
 
-<br /> 
-
-### Solutions Architect | Localization Expert
-
-#### Technical Skills: Python, Tableau, Power BI, AWS  
+#### Technical Skills: Python, Tableau, Power BI, AWS, SQL  
 
 <br />
 
