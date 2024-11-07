@@ -1,6 +1,7 @@
-### kerin17.github.io
-## Data Translator | Business Intelligence | Solutions Architect | Localization Expert
+## Technical Skills: Python, Tableau, Power BI, AWS
+
 ## 🤝🏼 [LinkedIn](https://www.linkedin.com/in/kerin-w-67445690/)
+###   kerin17.github.io
 
 ## 📝 EDUCATION
 ### Santa Clara University  
