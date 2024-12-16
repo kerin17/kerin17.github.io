@@ -1,6 +1,6 @@
 ### Data Translator | Business Intelligence | Localization Expert
 
-#### Technical Skills: Python, Tableau, Power BI, AWS, SQL  
+#### Technical Skills: Python, Tableau, Power BI, AWS, SQL, Streamlit
 
 
 ## 🤝🏼 [LinkedIn](https://www.linkedin.com/in/kerin-w-67445690/)    
