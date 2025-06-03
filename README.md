@@ -18,7 +18,7 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 ## 💼 Experience
 
-### 🎓 Teaching Assistant @ Santa Clara University (2024)
+### 🎓 Graduate Teaching Assistant @ Santa Clara University (2024)
 
 ### 📊 Data Analyst Intern @ Cisco (2024)
 
@@ -31,7 +31,7 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 ### Santa Clara University
 **Master of Science** – Business Analytics  
-- Focus: predictive modeling, data storytelling, machine learning, and cloud architecture.
+- Focused: predictive modeling, data storytelling, machine learning, and cloud architecture.
 
 ### University of California, Los Angeles
 **Bachelor of Arts** – Sociology  
