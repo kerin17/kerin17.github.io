@@ -11,7 +11,7 @@ I connect data, strategy, and communication. With a background that bridges **bu
 - **Languages:** Python, SQL  
 - **Analytics & Visualization:** Tableau, Power BI, Excel  
 - **Cloud & Tools:** AWS, GitHub, Jupyter, Google Cloud  
-- **AI/ML:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenAI GPT (LLMs), LangChain, Hugging Face Transformers, TextBlob, SpaCy, NLTK, TensorFlow (basic), Keras (basic), LIME, Model tuning (GridSearchCV, RandomizedSearchCV), Clustering (K-Means, DBSCAN), Dimensionality Reduction (PCA, t-SNE), Classification, Regression, Time Series Forecasting, NLP, Sentiment Analysis  
+- **AI/ML:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenAI (LLMs), LangChain, Hugging Face Transformers, SpaCy, NLTK, TensorFlow (basic), Keras (basic), LIME, Model tuning (GridSearchCV, RandomizedSearchCV), Clustering (K-Means, DBSCAN), Dimensionality Reduction (PCA, t-SNE), Classification, Regression, Time Series Forecasting, NLP, Sentiment Analysis  
 - **Other:** Agile, Scrum, Jira, Data Cleaning, Feature Engineering  
 
 ---
@@ -22,7 +22,6 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 ### 📊 Data Analyst Intern @ Cisco (2024)
 
-
 ### 🌍 Localization Program Manager @ Multilingual Technologies Inc. (2016–2023)
 
 
@@ -32,7 +31,7 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 ### Santa Clara University
 **Master of Science** – Business Analytics  
-- Focus: Predictive modeling, data storytelling, machine learning, and cloud architecture.
+- Focus: predictive modeling, data storytelling, machine learning, and cloud architecture.
 
 ### University of California, Los Angeles
 **Bachelor of Arts** – Sociology  
