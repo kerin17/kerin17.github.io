@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kerin
 
-### Data Translator | HCI | Strategic Liaison | Localization | Project Manager
+### Data Translator | HCI | Strategic Liaison | Localization |
 
 I connect data, strategy, and communication. With a background that bridges **business analytics**, **localization**, and **project delivery**, I help teams translate insights into action — whether it's launching global content or modeling data to drive smarter decisions.
 
@@ -9,10 +9,10 @@ I connect data, strategy, and communication. With a background that bridges **bu
 ## 💻 Technical Skills
 
 - **Languages:** Python, SQL  
-- **Analytics & Visualization:** Tableau, Power BI, Excel, Streamlit  
+- **Analytics & Visualization:** Tableau, Power BI, Excel  
 - **Cloud & Tools:** AWS, GitHub, Jupyter, Google Cloud  
-- **AI/ML:** Pandas, Scikit-learn, XGBoost, GPT (OpenAI), LLM applications  
-- **Other:** Agile, Scrum, Jira, REST APIs, Git, Data Cleaning, Feature Engineering  
+- **AI/ML:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenAI GPT (LLMs), LangChain, Hugging Face Transformers, TextBlob, SpaCy, NLTK, TensorFlow (basic), Keras (basic), LIME, Model tuning (GridSearchCV, RandomizedSearchCV), Clustering (K-Means, DBSCAN), Dimensionality Reduction (PCA, t-SNE), Classification, Regression, Time Series Forecasting, NLP, Sentiment Analysis  
+- **Other:** Agile, Scrum, Jira, Data Cleaning, Feature Engineering  
 
 ---
 
