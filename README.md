@@ -45,11 +45,11 @@ Below are some of the projects you’ll find in my GitHub:
 
 - **🧠 Mental Health & Suicide Risk Detection**  
   NLP-based classification using Reddit data to identify suicidal ideation and mental illness.  
-  → [`View Repo`]([https://github.com/kerin17/mental-health-risk-nlp](https://github.com/kerin17/Suicide_Risk_Detection))
+  → [View Repo](https://github.com/kerin17/Suicide_Risk_Detection)
 
 - **📊 YouTube Analytics Dashboard (Tableau)**  
   Insights into global trends, content genres, and subscriber growth.  
-  → [`View Repo`]([https://github.com/yourusername/youtube-insights](https://github.com/kerin17/Global_YouTube_Landscape))
+  → [View Repo](https://github.com/kerin17/Global_YouTube_Landscape)
 
 - **🥾 Hike Genie (Trail Matchmaker App)**  
   Personalized hiking recommendations based on user preferences and geolocation.  
@@ -58,7 +58,7 @@ Below are some of the projects you’ll find in my GitHub:
 
 - **📈 Credit Risk + Pricing Models (NDA)**  
   Predictive modeling for a last-mile appliance company (details shared within project repo).  
-  → [`View Repo`]([https://github.com/yourusername/credit-risk-model](https://github.com/kerin17/Predictive_Modeling_and_Pricing_Optimization_Koolboks))
+  → [View Repo](https://github.com/kerin17/Predictive_Modeling_and_Pricing_Optimization_Koolboks)
 
 ---
 
