@@ -24,7 +24,7 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 ### 🌍 Localization Program Manager @ Multilingual Technologies Inc. (2016–2023)
 
-### ⚖️ Purchasing Coordinator @ Lanner Electronics USA Inc. (2015)
+### 🔋 Purchasing Coordinator @ Lanner Electronics USA Inc. (2015)
 
 ### 📑 Document Reviewer Intern @ Browne George Ross, LLP (2013)
 
