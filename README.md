@@ -43,6 +43,10 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 Below are some of the projects you’ll find in my GitHub:
 
+- **✈️ Airline Satisfaction & Loyalty Prediction**  
+  Machine learning analysis of passenger survey data to predict satisfaction and uncover drivers of customer loyalty.  
+  → [View Repo](https://github.com/kerin17/us-airline-satisfaction-loyalty)
+  
 - **🧠 Mental Health & Suicide Risk Detection**  
   NLP-based classification using Reddit data to identify suicidal ideation and mental illness.  
   → [View Repo](https://github.com/kerin17/Suicide_Risk_Detection)
