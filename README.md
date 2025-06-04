@@ -53,7 +53,8 @@ Below are some of the projects you’ll find in my GitHub:
 
 - **🥾 Hike Genie (Trail Matchmaker App)**  
   Personalized hiking recommendations based on user preferences and geolocation.  
-  → [`Visit Site`]([https://partyrock.aws/u/kerinwu/2UcqgSHa6/Hike-Genie%3A-Your-Personalized-Trail-Companion](https://github.com/kerin17/Hike_Genie))
+  → [Visit Live App](https://partyrock.aws/u/kerinwu/2UcqgSHa6/Hike-Genie%3A-Your-Personalized-Trail-Companion)  
+  → [View GitHub Repo](https://github.com/kerin17/Hike_Genie)
 
 - **📈 Credit Risk + Pricing Models (NDA)**  
   Predictive modeling for a last-mile appliance company (details shared within project repo).  
