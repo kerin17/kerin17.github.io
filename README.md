@@ -2,7 +2,7 @@
 
 ### Data Translator | HCI | Strategic Liaison | Localization |
 
-I connect data, strategy, and communication. With a background that bridges **business analytics**, **localization**, and **project delivery**, I help teams translate insights into action — whether it's launching global content or modeling data to drive smarter decisions.
+I connect data, strategy, and communication. With a background that bridges **business analytics**, **localization**, and **project delivery**, I help teams translate insights into action - whether it's launching global content or modeling data to drive smarter decisions.
 
 ---
 
@@ -30,11 +30,11 @@ I connect data, strategy, and communication. With a background that bridges **bu
 ## 🎓 Education
 
 ### Santa Clara University
-**Master of Science** – Business Analytics  
+**Master of Science** in Business Analytics  
 - Focused: predictive modeling, data storytelling, machine learning, and cloud architecture.
 
 ### University of California, Los Angeles
-**Bachelor of Arts** – Sociology  
+**Bachelor of Arts** in Sociology  
 - Focused: qualitative and quantitative methodologies, behavioral analysis, and applied social research.
 
 ---
