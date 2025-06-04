@@ -43,7 +43,7 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 Below are some of the projects you’ll find in my GitHub:
 
-- **📣 Marketing Analytics**  
+- **📣 Marketing Analytics (NDA)**  
   Used R-based modeling, clustering, and topic analysis on web and social media data to guide campaign strategy, audience segmentation, and regional engagement for sustainable growth.  
   → [View Repo](https://github.com/kerin17/Sistema_Marketing_Analytics)
 
