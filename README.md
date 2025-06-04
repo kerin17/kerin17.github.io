@@ -43,13 +43,9 @@ I connect data, strategy, and communication. With a background that bridges **bu
 
 Below are some of the projects you’ll find in my GitHub:
 
-- **🧠 Mental Health & Suicide Risk Detection**  
-  NLP-based classification using Reddit data to identify suicidal ideation and mental illness.  
-  → [View Repo](https://github.com/kerin17/Suicide_Risk_Detection)
-
-- **📊 YouTube Analytics Dashboard (Tableau)**  
-  Insights into global trends, content genres, and subscriber growth.  
-  → [View Repo](https://github.com/kerin17/Global_YouTube_Landscape)
+- **📣 Marketing Analytics for Sistema**  
+  Used R-based modeling, clustering, and topic analysis on web and social media data to guide campaign strategy, audience segmentation, and regional engagement for sustainable growth.  
+  → [View Repo](https://github.com/kerin17/Sistema_Marketing_Analytics)
 
 - **🥾 Hike Genie (Trail Matchmaker App)**  
   Personalized hiking recommendations based on user preferences and geolocation.  
@@ -59,6 +55,14 @@ Below are some of the projects you’ll find in my GitHub:
 - **📈 Credit Risk + Pricing Models (NDA)**  
   Predictive modeling for a last-mile appliance company (details shared within project repo).  
   → [View Repo](https://github.com/kerin17/Predictive_Modeling_and_Pricing_Optimization_Koolboks)
+
+- **💻 Mental Health & Suicide Risk Detection**  
+  NLP-based classification using Reddit data to identify suicidal ideation and mental illness.  
+  → [View Repo](https://github.com/kerin17/Suicide_Risk_Detection)
+
+- **📊 YouTube Analytics Dashboard (Tableau)**  
+  Insights into global trends, content genres, and subscriber growth.  
+  → [View Repo](https://github.com/kerin17/Global_YouTube_Landscape)
 
 - **✈️ Airline Satisfaction & Loyalty Prediction**  
   Machine learning analysis of passenger survey data to predict satisfaction and uncover drivers of customer loyalty.  
